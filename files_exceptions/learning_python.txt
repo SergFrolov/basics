@@ -1,0 +1,4 @@
+In Python you can create and use data structs
+In Python you can do advanced calculations quickly
+In Python you can replicate the real world using classes and objects
+In Python you can automate a lot of tasks
